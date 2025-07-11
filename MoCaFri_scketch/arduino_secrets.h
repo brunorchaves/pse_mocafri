@@ -1,15 +1,15 @@
 //Token Arduino Cloud
-#define SECRET_DEVICE_KEY "4zaqMGCGnUgNLQLZq@r1?N?WH"
+#define SECRET_DEVICE_KEY "putyourshere"
 
 //Dados Wifi
-#define SECRET_OPTIONAL_PASS "andredfc9"
-#define SECRET_SSID "Andredfc"
+#define SECRET_OPTIONAL_PASS "putyourshere"
+#define SECRET_SSID "putyourshere"
 
 //Token do bot
-#define BOT_TOKEN "7928889627:AAHZ61dNebFslesT4Mdu2b1rU5fIDeNtdKQ"
+#define BOT_TOKEN "putyourshere:AAHZ61dNebFslesT4Mdu2b1rU5fIDeNtdKQ"
 
 //Id do usuário do telegram que irá receber as mensagens
-#define CHAT_ID "1475425161"
+#define CHAT_ID "putyourshere"
 
 //Faixa de temperatura aceitavel para alarmes
 #define MIN_TEMPERATURE 10
